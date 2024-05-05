@@ -1,0 +1,10 @@
+0-1000 = Forest/Landscapes
+1100-2000 = Lakes/Oceans/BodiesOfWater/Waterfalls
+2100-3000 = SpringTheme
+3100-4000 = WinterTheme
+4100-5000 = AutumnTheme
+5100-6000 = Chill/Sunset/Skies/Clouds
+6100-7000 = FamousVideoGameBackgroundsTheme
+7100-8000 = TropicalTheme/BeachTheme/ExoticNatureTheme
+8100-9000 = TexturedPicturesTheme
+9100-10000 = Space/Galaxy/Planets/OuterSpaceTheme

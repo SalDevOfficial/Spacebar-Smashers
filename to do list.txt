@@ -1,0 +1,12 @@
+to do list for updates for spacebar smashers (im really lazy)
+
+- fix error when closing window
+- draw a unmute sfx button
+- make highscore save
+- add a ton more backgrounds
+- maybe get better music
+- add a shop (upgrade n stuff)
+
+p.s: if u wanna support an awfully small dev, u can donate at this link: https://streamlabs.com/saldoesstuff1/tip
+
+it would be a bro move if u played the game and made a video about it but if not then no biggie
